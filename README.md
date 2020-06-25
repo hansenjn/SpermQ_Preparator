@@ -1,5 +1,5 @@
 # SpermQ_Preparator
-An ImageJ plugin to preprocess images for analysis with [SpermQ](https://github.com/hansenjn/SpermQ). Get the latest release of SpermQ Evaluator [here](https://github.com/hansenjn/SpermQ_Preparator/releases).
+An ImageJ plugin to preprocess images for analysis with *[SpermQ](https://github.com/hansenjn/SpermQ)*. A user guide / manual is also available on the main **[SpermQ repository](https://github.com/hansenjn/SpermQ)**. Get the latest release of *SpermQ Evaluator* [here](https://github.com/hansenjn/SpermQ_Preparator/releases).
 
 ## Copyright and how to cite:
 See also the main [SpermQ repository](https://github.com/hansenjn/SpermQ).
